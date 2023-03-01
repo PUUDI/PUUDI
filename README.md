@@ -1,5 +1,5 @@
 
-# D M Pulin Disanayaka
+# D M P Disanayaka
 
 I am an undergraduate from the University of Colombo Faculty of Science, majoring Statistics and Computer Science. During my time at the university, I developed a keen interest in data analysis and machine learning.
 
