@@ -9,6 +9,7 @@ I am an undergraduate from the University of Colombo Faculty of Science, majorin
 
  - University of Colombo Faculty of Science, B.Sc in Statistics and
    Computer Science (2018-2022)
+ - Undergraduate of Coventry University - Covertry, B.Sc Data Science (2019 - present)
 
 ## Employment History
 
