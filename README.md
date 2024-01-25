@@ -8,12 +8,15 @@ I am an undergraduate from the University of Colombo Faculty of Science, majorin
 ## Education
 
  - University of Colombo Faculty of Science, B.Sc in Statistics and
-   Computer Science (2018-2022)
- - Undergraduate of Coventry University - Covertry, B.Sc Data Science (2019 - present)
+   Computer Science (2018-2023)
+ - Undergraduate of Coventry University - Covertry, B.Sc Data Science (2019 - 2024)
 
 ## Employment History
+### ML Engineer at Dailog Axiata (May 2023 - Present)
+#### Developing segmentation service to cluster customers
+- Developed model pipeline to analyze daily customer data, segmenting them using clustering algorithms. The resulting insights are then utilized to improve the quality of features for other machine learning models.
 
-Intern at WSO2 (May 2021 - August 2021)
+### Data Scientist(Intern) at WSO2 (Nov 2022 - Mar 2023)
 
 Worked as an intern in the Growth Hacking team at WSO2, a leading open-source technology company.
 
